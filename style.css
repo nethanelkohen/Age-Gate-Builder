@@ -1,0 +1,20 @@
+body {
+  height: -webkit-fill-available;
+  background: url("https://www.thewhiskyworld.com/images/grey-goose-vodka-4-5-litre-magnum-p1537-5542_image.jpg") center
+    center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: 120%;
+}
+
+.remember {
+  padding-left: 10px;
+}
+
+.button-custom {
+  margin-top: 10px;
+}
+
+#showText {
+  margin-top: 10px;
+}
