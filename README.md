@@ -1,3 +1,3 @@
-# Wyng-Age-Gate-Builder
+# Age-Gate-Builder
 
 [staging site](http://fascinated-houses.surge.sh/)
